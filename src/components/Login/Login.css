@@ -1,0 +1,32 @@
+.auth_page_wrapper {
+    background: #eef2fe;
+    background: var(--gray-white-bg-color);
+}
+.bg-login{
+    background-color: #eef2fe;
+}
+body {
+    font-family: "Varela Round",sans-serif;
+    position: relative;
+    width: 100%;
+    z-index: 1;
+}
+.btn {
+    background-color: #9b1fe9 !important;
+}
+.text-color{
+    color : #9b1fe9;
+}
+.auth_page_wrapper .container .auth_form {
+    width: 30%;
+    margin: auto;
+    background: #fff;
+    background: var(--white-bg-color);
+    padding: 20px;
+    border-radius: 3px;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 5px -4px grey;
+}
+.auth_page_wrapper .container .auth_form .title {
+    margin-bottom: 20px!important;
+}

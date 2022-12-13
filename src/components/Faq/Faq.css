@@ -1,0 +1,15 @@
+.faq{
+    color: #9b1fe9;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Varela Round",sans-serif;
+    text-decoration: none;
+
+}
+.accordion-item:last-of-type .accordion-button.collapsed {
+    border-bottom-right-radius: var(--bs-accordion-inner-border-radius);
+    border-bottom-left-radius: var(--bs-accordion-inner-border-radius);
+    color: #1a2b6b;
+    font-size: 17px;
+    font-weight: 600;
+}

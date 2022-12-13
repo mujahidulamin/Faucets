@@ -1,0 +1,20 @@
+.bg-important{
+    background-color: white;
+}
+.icon-color{
+    color: #9b1fe9;
+}
+.button{
+    background: #9b1fe9;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    padding: 5px;
+}
+.bg-button{
+    background-color: blue;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    padding: 5px;
+}

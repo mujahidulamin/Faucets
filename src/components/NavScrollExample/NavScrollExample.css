@@ -1,0 +1,10 @@
+.logo{
+    color: #9b1fe9;
+    font-size: 25px;
+    font-weight: 600px;
+    font-family: "Varela Round",sans-serif;
+    text-decoration: none;
+}
+.logo:hover{
+    color: #9b1fe9 !important; 
+}
